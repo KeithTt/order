@@ -1,1 +1,1 @@
-应用部署小程序，练习用
+一个SpringBoot项目，Jenkins部署联系用
